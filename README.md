@@ -63,7 +63,7 @@ El archivo se vincula desde el HTML con `<script src="script.js"></script>`. Ver
 
 ---
 
-## Criterios de Fallo Automático
+## Criterios de Fallo
 
 | Criterio | Fallo |
 | :--- | :--- |
